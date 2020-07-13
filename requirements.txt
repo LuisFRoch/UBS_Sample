@@ -7,6 +7,7 @@ bqplot==0.12.0
 holoviews==1.12.5
 hvplot==0.5.2
 ipysheet==0.4.3
+ipython-sql==0.4.0
 ipython==7.9.0
 ipython-sql==0.4.0
 ipython_genutils==0.2.0
