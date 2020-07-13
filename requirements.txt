@@ -8,6 +8,7 @@ holoviews==1.12.5
 hvplot==0.5.2
 ipysheet==0.4.3
 ipython==7.9.0
+ipython-sql==0.4.0
 ipython_genutils==0.2.0
 ipywidgets==7.5.1
 matplotlib==3.1.2
@@ -25,8 +26,5 @@ scikit-surprise==1.1.0
 scipy==1.4.1
 seaborn==0.9.0
 statsmodels==0.10.1
-tensorboard==2.1.0
-tensorflow==2.1.0
-tensorflow-estimator==2.1.0
 widgetsnbextension==3.5.1
 yfinance==0.1.44
